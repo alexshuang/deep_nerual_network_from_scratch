@@ -4,9 +4,9 @@
 
 ---
 
-【目录】
+【简书目录】
 
-- 参数初始化：https://github.com/alexshuang/deep_nerual_network_from_scratch/blob/master/weights_initialization.ipynb
-- 反向传播：https://github.com/alexshuang/deep_nerual_network_from_scratch/blob/master/backward.ipynb
-- 全连接层(FC)：https://github.com/alexshuang/deep_nerual_network_from_scratch/blob/master/HeadFirstLinearLayer.ipynb
-- RNN：https://github.com/alexshuang/deep_nerual_network_from_scratch/blob/master/HeadFirstRNN.ipynb
+- 模型初始化：https://www.jianshu.com/p/f2d800388d1c
+- 梯度下降&反向传播：https://www.jianshu.com/p/6cf2133db1c7
+- 全连接层(FC)：https://www.jianshu.com/p/c498343b5959
+- RNN：https://www.jianshu.com/p/b5e8a630a99d
